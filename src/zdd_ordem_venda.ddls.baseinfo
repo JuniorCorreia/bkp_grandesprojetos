@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "KNA1",
+      "MAKT",
+      "MARA",
+      "VBAK",
+      "VBAP"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "VBAK"
+    ],
+    "ASSOCIATED": [
+      "KNA1",
+      "VBAP"
+    ]
+  }
+}
