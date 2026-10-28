@@ -16,7 +16,7 @@ DATA(lv_string) = |Hoje é dia: { sy-datum DATE = USER }|.
 
 DATA(lv_string2) = |Nome: { to_upper( lv_name1 ) } { to_lower( lv_name2 ) }|.
 
-DATA(lv_string3) = repeat( val = 'Cocozinho ' occ = 3  ).
+"DATA(lv_string3) = repeat( val = 'Cocozinho ' occ = 3  ).
 
 
 cl_demo_output=>write( lv_string3 ).
