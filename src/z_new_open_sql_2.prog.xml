@@ -10,11 +10,6 @@
     <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
-   <I18N_TPOOL>
-    <item>
-     <LANGUAGE>E</LANGUAGE>
-    </item>
-   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
